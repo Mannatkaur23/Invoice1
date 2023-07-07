@@ -1,6 +1,6 @@
 # Invoice1
 from datasets import load_dataset 
-dataset = load_dataset("Invoice/jpg")
+dataset = load_dataset("Invoice1")
 print(dataset)
 
 #To extract features of dataset
