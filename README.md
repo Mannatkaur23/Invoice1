@@ -8,7 +8,7 @@ print(dataset["train"].features)
 
 #To print image
 example = dataset["train"][0]
-print(example["image"])
+print(example["Invoice"])
 
 ![Invoice](https://github.com/Mannatkaur23/Invoice1/assets/133659768/4bb5ee5e-5c01-4f35-ac8a-9bc4d05f4f74)
 
