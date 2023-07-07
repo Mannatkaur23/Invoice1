@@ -1,6 +1,6 @@
 # Invoice1
 from datasets import load_dataset 
-dataset = load_dataset("Invoice1")
+dataset = load_dataset("nielsr/funsd-layoutlmv3")
 print(dataset)
 
 #To extract features of dataset
